@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rajpatel17-bot/newsapp.git/static/css/main.09abc9df.chunk.css",
+    "main.js": "/rajpatel17-bot/newsapp.git/static/js/main.f34bf77c.chunk.js",
+    "main.js.map": "/rajpatel17-bot/newsapp.git/static/js/main.f34bf77c.chunk.js.map",
+    "runtime-main.js": "/rajpatel17-bot/newsapp.git/static/js/runtime-main.bb0b6260.js",
+    "runtime-main.js.map": "/rajpatel17-bot/newsapp.git/static/js/runtime-main.bb0b6260.js.map",
+    "static/js/2.11336a3e.chunk.js": "/rajpatel17-bot/newsapp.git/static/js/2.11336a3e.chunk.js",
+    "static/js/2.11336a3e.chunk.js.map": "/rajpatel17-bot/newsapp.git/static/js/2.11336a3e.chunk.js.map",
+    "static/js/3.5837e23e.chunk.js": "/rajpatel17-bot/newsapp.git/static/js/3.5837e23e.chunk.js",
+    "static/js/3.5837e23e.chunk.js.map": "/rajpatel17-bot/newsapp.git/static/js/3.5837e23e.chunk.js.map",
+    "index.html": "/rajpatel17-bot/newsapp.git/index.html",
+    "static/css/main.09abc9df.chunk.css.map": "/rajpatel17-bot/newsapp.git/static/css/main.09abc9df.chunk.css.map",
+    "static/js/2.11336a3e.chunk.js.LICENSE.txt": "/rajpatel17-bot/newsapp.git/static/js/2.11336a3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0b6260.js",
+    "static/js/2.11336a3e.chunk.js",
+    "static/css/main.09abc9df.chunk.css",
+    "static/js/main.f34bf77c.chunk.js"
+  ]
+}
