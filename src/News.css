@@ -1,0 +1,35 @@
+.row{
+    align-items: center;
+    justify-content: center;
+}
+
+.container h1{
+    color: #fff;
+    margin-top: 5rem!important;
+    padding: 15px 0;
+    background-color: rgb(27, 27, 83);
+}
+
+.container h2{
+    color: #fff;
+    padding: 10px 0;
+    background-color: #BB2D3B;
+}
+
+@media (max-width: 1000px){
+    .col-md-3 {
+        width: 33%;
+    }
+}
+
+@media (max-width: 770px){
+    .col-md-3 {
+        width: 45%;
+    }
+}
+
+@media (max-width: 570px){
+    .col-md-3 {
+        width: 100%;
+    }
+}
